@@ -1,0 +1,26 @@
+.porfolio-img {
+    width: 300px;
+    height: 300px;
+    padding-left: 30px;
+}
+
+.porfolio-img1 {
+    width: 300px;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.first {
+    padding: 80px;
+    padding-left: 150px;
+}
+
+.portfolio-text {
+    padding-left: 30px;
+    color: whitesmoke;
+}
+
+.table1 {
+    padding-top: 150px;
+}
