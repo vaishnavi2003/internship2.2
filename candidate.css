@@ -24,3 +24,13 @@
 .table1 {
     padding-top: 150px;
 }
+
+.cont {
+    padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .cont {
+        padding-left: 200px;
+    }
+}
